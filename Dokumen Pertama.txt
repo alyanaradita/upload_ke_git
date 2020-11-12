@@ -1,0 +1,2 @@
+ini adalah dokumen pertama
+yang akan di push ke git alyanaradita
